@@ -29,4 +29,4 @@ The final working pipeline had the following features
 Result:
 The latency was observed to be between 0 to 40ms
 
-
+Note: Installing gstreamer 1.6 or above is necessary. apt-get in ubuntu won't work. You need to install from source. 
